@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... work projects!
 - 📫 How to reach me ...
       - twitter: [@TheLoadingPoint](https://twitter.com/theloadingpoint)
-      - linkedIn: [https](https://www.linkedin.com/in/theloadingpoint/)
+      - linkedIn: [LinkedIn](https://www.linkedin.com/in/theloadingpoint/)
 
 <!---
 MichelleMSFT/MichelleMSFT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
